@@ -1,0 +1,6 @@
+[
+  {
+    "input": ["out.svg"],
+    "output": [["out.png"]]
+  }
+]

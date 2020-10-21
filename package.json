@@ -1,0 +1,12 @@
+{
+  "name": "rendermkt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^6.2.0",
+    "jsdom": "^16.4.0",
+    "svgexport": "^0.4.1",
+    "svgo": "^1.3.2"
+  }
+}
